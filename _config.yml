@@ -1,7 +1,6 @@
 # Setup
 title: Plan
 tagline: The Jekyll Butler
-url: https://gisadan.github.io/plan/
 paginate: 1
 baseurl: ""
 permalink: pretty

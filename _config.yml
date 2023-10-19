@@ -5,7 +5,7 @@ url: https://gisadan.github.io/plan/
 paginate: 1
 baseurl: ""
 permalink: pretty
-baseurl: http://gisadan.github.io/plan/
+baseurl: plan/
 
 # Gems
 plugins:
